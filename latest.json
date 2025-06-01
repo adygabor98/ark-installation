@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Ark update 1.0.0",
+  "pub_date": "2025-06-01T09:55:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
