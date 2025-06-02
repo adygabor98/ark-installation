@@ -10,10 +10,6 @@
     "windows-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmFlNUx2QXBWQ0pIYWQ4bjU2RnFVc1I1M0k0dURoRmxSdVYreFRaMkRSZ0oreXB6UHhJZjB4OXFPY2V5R3A1TEpyemphZVZuTm1wRm10dkhzUUdKbUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4ODU5MzI1CWZpbGU6QXJrXzEuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKK2IwRTdSOVF1NzZTbUJ2T1k3U3JXVHN5Y2Y0M2VVbXBUMFBvUnNwRTdZUG5XTzBOSTRyOGY3czU0SG1Gd2ROc1NYNkpUY2VvUzBHcDN4MDNoRlBxRFE9PQo=",
       "url": "https://github.com/adygabor98/ark-installation/releases/download/1.0.0/Ark_1.0.0_arm64_en-US.msi.zip"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmNUMnI2WFNZOFFDUStVbE5ZR3E1aGRUd2hTTFQ2VzMvM0E1aW1SNExlcy9oeGdZcVdFaHNxcGZOdUhmSS9nWkFJbUE4RWZHeXJlbjFSVDNraWo2SWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4ODU5MjU3CWZpbGU6QXJrLmFwcC50YXIuZ3oKeUFZMWtsNk1sN085MDBYK05pZlB4RTdKS1ZJNi9RRDBMdU9oWThRMzdab3RNN3VBbEhJNFRsaW1DNTYwTlphd2lGM0l3VXBCMjFzZFlndWIxSEtqREE9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/1.0.0/Ark.app.tar.gz"
     }
   }
 }
