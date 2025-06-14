@@ -1,15 +1,15 @@
 {
-  "version": "3.0.0",
-  "notes": "Ark update 3.0.0",
-  "pub_date": "2025-06-09T09:55:00Z",
+  "version": "4.0.0",
+  "notes": "Ark update 4.0.0",
+  "pub_date": "2025-06-14T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVllWUjFJVE9WTGxJZjFyaXJ3OWN0N3FuSG45ejNJWG9TdWxyb2wvOTczVElqMmpzZHJ3WW9ydU5sTE5PbDZDdTUwY05uU2liRExuNmVWS1hlTklIandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NDYxNDU3CWZpbGU6QXJrXzMuMC4wX3g2NF9lbi1VUy5tc2kuemlwCkZTT2dTRldlOE0vYk55WWtxSnlTdVpwd3p1QTdhc21kOE9paHY4WGNzMjF6ejRqMFBFODN1YUwxaHFRQTl6RG44SERudnN3dkNGMnZ0Ly9tU25ER0RRPT0K",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/3.0.0/Ark_3.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlMwY3JrR09GdTJZZ1ZDTGZUd3JGYytjaDNaNlppU3NTdWNXV1owc2VhRG5LVEQwZHBucnRsYTdYQWF6RytSVE8yRm8zWHIrLy9OR1VFeFBKRkR3OUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5ODk1MTc5CWZpbGU6QXJrXzQuMC4wX3g2NF9lbi1VUy5tc2kuemlwCjlkOTNhNTgzcm41WEY2RTU0K2JxaVFUNStybzVpTXZWdmxpNlY3ay9PbnNqN1Q1RVhGclRXaUpIQWJSL3IvOElzR1ZOQnNMZFRibVB4L09IVm9lMUF3PT0K",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/4.0.0/Ark_4.0.0_x64_en-US.msi.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmJGVDN3dVJXRHFaZkJxclR1UkhsbUlnVWpsdHM1MkIydlpjUFM0eTQzVUgwZDR6V092akFGdXkyNTltR2gycDhLQTBNTkw0ODNnL3ZoSDZCSHlPTHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NDYxNzQxCWZpbGU6QXJrXzMuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKL2w3K3Q2b2ZJcG51a3NJYzErTHJHSTI3Q2VadEdXYW1TK2JJeXR5aGJ1VHQ1ckwzMVc3ak9zYTdjUUNJMkdYaXduMGN6VFBYcWZ2RDliZ1BkaEFBRHc9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/3.0.0/Ark_3.0.0_arm64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlcyNUNwanNrM2h2MjFqeVVrbW82a1dPR0UzSDZSMGNDbDBCQW5KbUlqOVRqOG96QnF5UkRLWE1NaDh0dUVXSTZ5cHRFbmdRZXNSVnNCSlRBZE0vaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5ODk1NDc1CWZpbGU6QXJrXzQuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKZXNDb2VUS0YxYzhjVjNMUUVOb1UyRDJDUktRaHE1Sm56Z09CVFdwZzZkNHk0TE5tT0FzS2VWZHI3YkdJaEEvK0lrQVROUm9tRTRpTy9HWHdhcUFXQnc9PQo=",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/4.0.0/Ark_4.0.0_arm64_en-US.msi.zip"
     }
   }
 }
