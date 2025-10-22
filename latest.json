@@ -1,15 +1,15 @@
 {
-  "version": "20.0.0",
-  "notes": "Ark update 20.0.0",
+  "version": "20.0.1",
+  "notes": "Ark update 20.0.1",
   "pub_date": "2025-06-16T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlFrbTJqTE5mLzI0ZzJCN1ROUjMwUVhJeTFCd3NnTFExS2RsR2xCK0tBc2p4bDlrVHA5SkpDRXZHbGJLZW5Zc2l2UEw2T05rV3lkN2VnbTBZbk9KR2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTY1Njg4CWZpbGU6ci1BcmtfMjAuMC4wX3g2NF9lbi1VUy5tc2kuemlwCmdNSll4VUFscGhsdzltV2MxaUJNbUxBN1d5ME9HZzhXWGhBOEFVRzdRWjFsamlvZ2lNMVprbHo4R0FNZnZQMDJRWDVBQkN3cHEzdGNjKzh5NithbENBPT0K",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/20.0.0/r-Ark_20.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlRnVmNteVdnMTZqSHhYQ0prT3BPQU92UlZySkxDbVdXam9TSSt0aDJXSXFGK1l1elhDdzhKNDd2SnRDQUZwL0VqNERySDU5YnNGRjhXdEh5M3h3dkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMTMxNDUyCWZpbGU6ci1BcmtfMjAuMC4xX3g2NF9lbi1VUy5tc2kuemlwCjdBdFFHZ0dEemMyTnBTUUNEVnZLSlFDZEx3NmFaeTBBeHhWSmxHMlJJallFZlZJbm1hYWl5RjQ2dnJ4SUZwU2plczB6RURFTlRGNUVjVzl6bDdON0FnPT0K",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/20.0.1/r-Ark_20.0.1_x64_en-US.msi.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmFzL1h0dnQ4dkJLNG03ekFkTWtiWjhJWXVDT1czdkhQV2p4RElINzhIV3IrYlFvcWg3Z1drdHdWU0drVmR3YkxMSVZYVmdqeDU1WmJQRE82QmtDandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTY2MDg4CWZpbGU6ci1BcmtfMjAuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKK2hpSGdCWXJuYWdyZEVLV1gvUHJ1YlZobEtFMGl0VXNBb3ZRV1FTdkR4eXZkSG8ySTg1c0FLNXZ4R0NvU045Yk1PRGpBaW5CYkdMclN3L01Ld2pkQ0E9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/20.0.0/r-Ark_20.0.0_arm64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlNROHQ0UjI2YlN0ZldqYnhYTk1rUEFldmxUOWE1Q0NtMDMwR1paN1hta2E3cUw4VVc1V1gwZWJPMXpRNndrTmRJMjdrZkxGbjdWd084bXJXMk91NlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMTMxODAxCWZpbGU6ci1BcmtfMjAuMC4xX2FybTY0X2VuLVVTLm1zaS56aXAKSjNRZTJkYkwyb0JEY3N0ZWVaNFhUNmNiUU9TbUljZUEvSXIwcFVIV0tyNWFXV1c3WmpHanBnKzN2VzZGaVJKYml2VmI1dm00dTBrMEdUL28wcWZWQVE9PQo=",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/20.0.1/r-Ark_20.0.1_arm64_en-US.msi.zip"
     }
   }
 }
