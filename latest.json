@@ -1,15 +1,15 @@
 {
-  "version": "22.0.2",
-  "notes": "Ark update 22.0.2",
+  "version": "22.0.3",
+  "notes": "r-rk update 22.0.3",
   "pub_date": "2025-06-16T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlcrUDRpVWlKVnkreVJ0Ry9ocFc3b3A1UXhVbXhBVmhJQlR3L24vNHlmWTNUOUlKQ1F2b0RzOVI3V3BCMVpMc1dSTy9YSk5kWGNVbTdLc21mUTY0L3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxOTEyNDU3CWZpbGU6ci1BcmtfMjIuMC4yX3g2NF9lbi1VUy5tc2kuemlwClUxZ092S3RzVkNkeFNVWFNDUGtOb1ErbWhBaXl1SzBtcndldjQxT2FSVnV2N3U1bFdpUi9YbldhR2xaMUZVRVAvVk5EQnJKejlaS2JhMFlXaDY0NkRRPT0K",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/22.0.2/r-Ark_22.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVldBWnhLWXFvNmh3SUc0UWltOXhMZ0poMHdYSGlrU1hJNXN2MGx2T2hJSkZhMm9RdzJhWlJ1aG1GV1IrL0FJZlNOdnRSR3dydUwrdkt3NmhyRlE4S0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxOTE0ODk5CWZpbGU6ci1BcmtfMjIuMC4zX3g2NF9lbi1VUy5tc2kuemlwCm1IOEpPdU5kbHBHSEZQQk8xSG5DRVR2ZndYVFJWbWRjQVpYY0RBTlZDYWtBV21UZlpBa0xJRGduZCsrL0tVY1o3NVVvRmlvTis0UnZBeHVzdGVOVkFRPT0K",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/22.0.3/r-Ark_22.0.3_x64_en-US.msi.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVllkOTY4SVFWZi9LZnk5Vk1Ubkh2WVk1SElYVWNEWEdFU2xSaW9ZMy94UUJkVGZ4YitKTWxNK1RnYUo1eHY2RWUyeEdoUUFIZlAxdytWNTNobnZLS0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxOTEyNzY2CWZpbGU6ci1BcmtfMjIuMC4yX2FybTY0X2VuLVVTLm1zaS56aXAKaXJOeUU3UkRZR0hqcEhkZkJOMU0xTGNPcUJVUHVBZ1ZDZEhKUURFZ05mdGJROHFMNG8vOXpsVWdHM3JNc1gzV0VaM0hCVnFQdE9PZVo2bm9SeUcrQnc9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/22.0.2/r-Ark_22.0.2_arm64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVldWUUN6UlFQRjBjL1RnR0ZqbkE0c0ZoUzFuTmdvMi85N0g0ZVh0ZVNpQzBhV1lMcmRVcUMxTlZLTnBVaFlvNU51R3lDMHd4NVV1bGJ6L0VsZ2o3RXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxOTE1MjY2CWZpbGU6ci1BcmtfMjIuMC4zX2FybTY0X2VuLVVTLm1zaS56aXAKaVhZL0t6WTFPY0NxSmhadWExRStmclVMeXVtMEZkajlEYk1SN2JLdm8renpvZWtXNGVSRXhFVWR4S3IyWUpXUXFqY1dic0VkZGpKKzhrRUg4R3QxQnc9PQo=",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/22.0.3/r-Ark_22.0.3_arm64_en-US.msi.zip"
     }
   }
 }
