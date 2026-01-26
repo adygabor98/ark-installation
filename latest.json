@@ -1,15 +1,15 @@
 {
-  "version": "28.0.0",
-  "notes": "Ark update 28.0.0",
+  "version": "29.0.0",
+  "notes": "Ark update 29.0.0",
   "pub_date": "2025-06-16T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVld0aDE0ZDR4cUF4S2xkV08xbUFiTmkxblJJajZEdHpZcE0zNWJGU1NLdkphUStUcDBLbFBCejJrS2lxbS9ZMW9XOEhSRHNJc0lUdGNzSzFYUXN1Z1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzY2NjAxCWZpbGU6ci1BcmtfMjguMC4wX3g2NF9lbi1VUy5tc2kuemlwCndLNWhDVzB4d1FSZUMvYmVlc0g0V2NkZDVVMytYRGpQNzRkc3N4YTRiMjVsRHlwTm94eG5BU3ovanFWSkpqRFBIZ2dFTTAwdmxmREhrTWI4R3lBWENRPT0K",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/28.0.0/r-Ark_28.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVldSR3NQQmR4Y2MzZFlVbDMrdk1OcUxTMjBhTVlhNTJPV2NObEcrcHZsVlN1a0lqcTdib21oWXovN0IzTTErSTlMeFRxWUtXd2Y0UG1nN1J3enpTWkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDEzMzgwCWZpbGU6ci1BcmtfMjkuMC4wX3g2NF9lbi1VUy5tc2kuemlwCjYyTjNPZkJJRERIUDNlTzkweDBTdnUxSG8wUnhjS2dQR0p3QmIrTGJMYy9rbk4xeGUxdmZ3U1ArQzZuSWtPQk5RaUsxbCs5aXRISnQyR1ZiY1lLTEFnPT0K",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/29.0.0/r-Ark_29.0.0_x64_en-US.msi.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlNOLzJKVEU3cjRRa3ZGRFZiTnd1OEJaQ01QMHE1VVJvdUpzbXhRSklMMXJrQ1JFRlVGUXRESW8vNEhCd0JrRU1KWVJnL0N4Ymt1ZUoxYXcwVjdoQ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzY3MDIzCWZpbGU6ci1BcmtfMjguMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKVW9IRklFOTJkd2RMSENXOGpzcjhJNG1jQXFiVkJKbkp0elJkVEtoRGJNV1p4ajBhL1JhRTV5R2JJWVZ3cFRjWlM5RHRXbmU0emtPT1dEWHZwZ2pnQ2c9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/28.0.0/r-Ark_28.0.0_arm64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmJQM0svaEp1enF0NHJ3d0FRWjdZTUpWalR0a2h3VzQ5Y2RjemJWZEVWbmExTzl5RjN5aTJKTWFrbFRsZ1hNUEVpZjRLdW5Xc3NhZmhLdEM1MXd3Z2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDEzNjY1CWZpbGU6ci1BcmtfMjkuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKNHh6NkU4d055aktOb3FxVFhzL2JwT051ZVh6Wjg4eUFNNW1oVFg5alczbXpmbHU4N2ozR21HK09MUllLOTJBc1lYWDJRblZWOGxiR0RHclhrTnhpQmc9PQo=",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/29.0.0/r-Ark_29.0.0_arm64_en-US.msi.zip"
     }
   }
 }
