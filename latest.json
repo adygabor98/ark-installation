@@ -1,15 +1,15 @@
 {
-  "version": "32.0.0",
-  "notes": "Ark update 32.0.0",
+  "version": "33.0.0",
+  "notes": "Ark update 33.0.0",
   "pub_date": "2025-06-16T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmV4YmNpUExrU2kzR2tmcGp6S0plRXNQbXhPOFBJdHVybElqV2lPejZhNWV4eFRyZG53THV1TDNxbzRNaHg4WEJTajQrbjRHV1g4dG4vak1FaWZoQlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODQ4NDUxCWZpbGU6ci1BcmtfMzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwCkx5THhXVDVNSEhKSGxMVkhaM0U5MmxsdUIrU1pMM3hGTlU2TzdRZENaeC9DRDM0VDZzZDN3SGJqeTYxcnhvYTh1UGV1Vk1KOUpzbnNDcWt2ajRDNURRPT0K",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/32.0.0/r-Ark_32.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlYyd3BxNEM3cGM3S2NYR2ExeXV0VFFMYXMvTHNEZzVwVnRsL2VvZGxjOEJvNmJ4eVJhNm51dXlTbmE3V3V5NjBjVlR6R09vQ0x1TWwzMmRZbFE2M1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDA0NDkwCWZpbGU6ci1BcmtfMzMuMC4wX3g2NF9lbi1VUy5tc2kuemlwCmdkVDZJQ2huZzAzNi9PODJPSjFMbkttdkdHNllicWZVcmpKUS9qREdoU1dqc2c1WHVzM0J6anFwVEQrUEp2YXNGamwydUVWT3BiNUkvbW5HNHhVWkNBPT0K",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/33.0.0/r-Ark_33.0.0_x64_en-US.msi.zip"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVmFiVlNwVUZoMWJyQk84RzlwV0s1WXhIVmpLdmxFc05sQUpQTTNEZUtqemJPUzFtNWtVUnRXOFFsTHJzOFFQOGZkQTdiU2MxRnRVYnFVbStPTytCNFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODQ4NzYwCWZpbGU6ci1BcmtfMzIuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKR29Qc05KdlJMWW1ONnRLWVZETGNMZHdaNDQ1c2Z4YTFtR2JXVGt4UVBweTlRQldycTdGQXFpQkV6eHROOWh5Z0xvMmhucDNOUHJ4ZkNaQm9EUjlwQ2c9PQo=",
-      "url": "https://github.com/adygabor98/ark-installation/releases/download/32.0.0/r-Ark_32.0.0_arm64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVJFY0lWdTVZVlFsdElCODZVd2xqMnJudlRReWxrL3FEb2pDYmU2Rm9lWE9aSjVySVdkSmVuN1haZlVLMzRxYTdwUWY0eWNrZHcxZVgxTGxjMUE4NDFEVncvQURKQWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDA0ODI5CWZpbGU6ci1BcmtfMzMuMC4wX2FybTY0X2VuLVVTLm1zaS56aXAKNnR1bjl4VTlzY2pDaDZHUmZaM09ZRWs5VGxJZzhhNGdiaXBuNGhDbThzaTZPdm90WUExbjVJamlUbHF4U0xLWU9jaXgvT0djaEtRYUhpTHM2TXgvQ2c9PQo=",
+      "url": "https://github.com/adygabor98/ark-installation/releases/download/33.0.0/r-Ark_33.0.0_arm64_en-US.msi.zip"
     }
   }
 }
